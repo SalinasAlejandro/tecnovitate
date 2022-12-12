@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/11/2020, 08:53:29 PM
+    Author     : dykeo
+*/
+
+body{
+    background-color: darkcyan;
+}
+
+
+h5.card-title{
+    color:blue;
+}
+
+p.card-text{
+    color: white;
+}
+
+
+div#InfoP{
+    background-color: lightblue;
+}
+div#carouselExampleControls{
+    background-color:lightblue;
+}
+
+small#textsn{
+    color:white;
+}
+
+div#NotiForm{
+    background-color:lightblue;
+}
+div#ComentarySection{
+    background-color:beige;
+}
+
+.other-seccion{
+    margin-top: 25px;
+}
+
+a:link,
+a:visited,
+a:active{
+    text-decoration: none
+}
+
+a:hover, .card-title:hover, .card-text:hover{
+    color: grey;
+}
+
+small{
+    color: lightgray;
+}
